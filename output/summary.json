@@ -1,0 +1,14 @@
+{
+  "transactions_analyzed": 69,
+  "alerts_generated": 9,
+  "note": "Checked-in outputs are illustrative examples generated from the synthetic sample dataset.",
+  "rule_weights": {
+    "HIGH_AMOUNT": 25,
+    "AMOUNT_SPIKE": 30,
+    "NEW_COUNTRY": 30,
+    "NEW_DEVICE": 20,
+    "HIGH_RISK_MERCHANT": 35,
+    "VELOCITY_SPIKE": 40,
+    "RAPID_CASHOUT_PATTERN": 30
+  }
+}
